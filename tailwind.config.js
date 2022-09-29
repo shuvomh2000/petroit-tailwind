@@ -12,6 +12,7 @@ module.exports = {
         'primary': '#F40404',
         'para': '#6C6C6C',
         'yBorder': '#FFB800',
+        'bl_opacity': 'rgba(0,0,0,.6)',
       },
       maxWidth: {
         'container': '1144px',
