@@ -5,7 +5,7 @@ import { AiOutlineTwitter,AiOutlineInstagram } from 'react-icons/ai';
 
 const Header = () => {
   return (
-    <header className='bg-black py-[15px]'>
+    <header className='bg-black py-[15px] border-b-[5px] border-solid border-yBorder'>
         <div className="max-w-container mx-auto">
         <div className="flex">
             <div className="w-2/4 flex">
